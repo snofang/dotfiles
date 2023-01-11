@@ -29,7 +29,6 @@
 .ssh/
 .sudo_as_admin_successful
 .themes/
-.tmux.conf
 .tmux/
 .wget-hsts
 .zshrc
