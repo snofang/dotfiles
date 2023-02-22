@@ -1,9 +1,0 @@
-erlang ref:OTP-25.1.2
-elixir ref:v1.14.2
-java system
-neovim stable
-lazygit 0.34
-yarn 1.22.19
-nodejs 18.1.0
-ripgrep 13.0.0
-rebar 3.19.0
